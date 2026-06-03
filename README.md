@@ -1,60 +1,32 @@
-1 # Hi there, I'm Shashi Singh! 👋
-    2 ### Azure DevOps Engineer | Terraform | Docker | Kubernetes | Azure Cloud
-    3
-    4 <p align="left">
-    5 <img src="https://komarev.com/ghpvc/?username=ShashiSingh72&label=Profile%20views&color=0e75b6&style=flat" alt="ShashiSingh72" />
-    6 </p>
-    7
-    8 ---
-    9
-   10 ## 🚀 About Me
-   11 - 🔭 **Currently working on:** Azure infrastructure automation using Terraform, CI/CD pipelines with Azure DevOps, Docker containerization, and Kubernetes (AKS)
-      deployments.
-   12 - 🌱 **Currently learning:** Advanced Kubernetes, GitOps, Helm, ArgoCD, Azure Landing Zones, and Cloud Security best practices.
-   13 - 👯 **Looking to collaborate on:** Open-source DevOps projects, Terraform modules, Kubernetes deployments, CI/CD automation, and cloud infrastructure solutions.
-   14 - 🤔 **I can help with:** Large-scale Kubernetes architectures, GitOps implementation, service mesh technologies, and cloud-native security.
-   15 - 💬 **Ask me about:** Azure, Azure DevOps, Terraform, Docker, Kubernetes, Linux, Git, GitHub Actions, CI/CD Pipelines, AKS, ACR, Networking, and Infrastructure as Code
-      (IaC).
-   16 - ⚡ **Fun fact:** ⚡ I enjoy automating manual tasks and turning infrastructure deployments into one-click CI/CD pipelines.
-   17
-   18 ---
-   19
-   20 ## 🛠️ My Tech Stack
-   21
-   22 ### ☁️ Cloud & DevOps
-   23 <p align="left">
-   24 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-   25 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-   26 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-   27 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-   28 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-   29 <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-   30 <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-   31 <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-   32 <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-   33 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-   34 </p>
-   35
-   36 ---
-   37
-   38 ## 📊 GitHub Stats
-   39 <p align="center">
-   40   <img src="https://github-readme-stats.vercel.app/api?username=ShashiSingh72&show_icons=true&theme=radical&hide_border=false" alt="Shashi's GitHub Stats" height="150" />
-   41   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiSingh72&layout=compact&theme=radical&hide_border=false" alt="Top Langs" height="150" />
-   42 </p>
-   43
-   44 ---
-   45
-   46 ## 📫 Connect with me
-   47 <p align="left">
-   48 <a href="https://www.linkedin.com/in/shashikant-devops" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"
-      /></a>
-   49 <a href="mailto:shashisingh223344@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"
-      alt="Email" height="25" /></a>
-   50 </p>
-   51
-   52 ---
-   53 <p align="center">
-   54 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-   55 </p>
+# Hi 👋, I'm ShashiSingh72
+
+### Azure DevOps Engineer | Terraform | Docker | Kubernetes | Azure Cloud
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashiSingh72&label=Profile views&color=0e75b6&style=flat" alt="ShashiSingh72" /> </p>
+
+- 🔭 I'm currently working on **Azure infrastructure automation using Terraform, CI/CD pipelines with Azure DevOps, Docker containerization, and Kubernetes (AKS) deployments.**
+
+- 🌱 I'm currently learning **Advanced Kubernetes, GitOps, Helm, ArgoCD, Azure Landing Zones, and Cloud Security best practices.**
+
+- 👯 I'm looking to collaborate on **Open-source DevOps projects, Terraform modules, Kubernetes deployments, CI/CD automation, and cloud infrastructure solutions.**
+
+- 🤝 I'm looking for help with **Large-scale Kubernetes architectures, GitOps implementation, service mesh technologies, and cloud-native security.**
+
+- 💬 Ask me about **Azure, Azure DevOps, Terraform, Docker, Kubernetes, Linux, Git, GitHub Actions, CI/CD Pipelines, AKS, ACR, Networking, and Infrastructure as Code (IaC).**
+
+- 📫 How to reach me **https://github.com/ShashiSingh72 shashisingh223344@gmail.com , www.linkedin.com/in/shashikant-devops**
+
+- ⚡ Fun fact **⚡ I enjoy automating manual tasks and turning infrastructure deployments into one-click CI/CD pipelines.**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/ShashiSingh72](https://github.com/ShashiSingh72)**
+
+- 📄 Know about my experiences **[https://www.naukri.com/mnjuser/profile](https://www.naukri.com/mnjuser/profile)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ShashiSingh72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShashiSingh72" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/shashikant-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashikant-devops" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
