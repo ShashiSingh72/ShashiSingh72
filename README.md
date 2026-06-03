@@ -1,3 +1,4 @@
+https://github-readme-stats.vercel.app/api?username=ShashiSingh72&show_icons=true&theme=github_dark
 <h1 align="center">Hi 👋, I'm Shashi Singh</h1>
 
 <h3 align="center">
@@ -8,7 +9,6 @@ Azure DevOps Engineer | Terraform | Docker | Kubernetes | Azure Cloud
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Azure+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Expert;Cloud+Infrastructure+Engineer" />
 </p>
 
-# Hi 👋, I'm ShashiSingh72
 
 ### Azure DevOps Engineer | Terraform | Docker | Kubernetes | Azure Cloud
 
