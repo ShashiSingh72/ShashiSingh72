@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=ShashiSingh72&show_icons=true&theme=github_dark
+
 <h1 align="center">Hi 👋, I'm Shashi Singh</h1>
 
 <h3 align="center">
