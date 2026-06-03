@@ -1,16 +1,108 @@
-## Hi there 👋
-
-<!--
-**ShashiSingh72/ShashiSingh72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-06-03T03:13:18.346Z",
+  "profile": {
+    "title": "ShashiSingh72",
+    "subtitle": "Azure DevOps Engineer | Terraform | Docker | Kubernetes | Azure Cloud",
+    "currentWork": "Azure infrastructure automation using Terraform, CI/CD pipelines with Azure DevOps, Docker containerization, and Kubernetes (AKS) deployments.",
+    "currentLearn": "Advanced Kubernetes, GitOps, Helm, ArgoCD, Azure Landing Zones, and Cloud Security best practices.",
+    "collaborateOn": "Open-source DevOps projects, Terraform modules, Kubernetes deployments, CI/CD automation, and cloud infrastructure solutions.",
+    "helpWith": "Large-scale Kubernetes architectures, GitOps implementation, service mesh technologies, and cloud-native security.",
+    "ama": "Azure, Azure DevOps, Terraform, Docker, Kubernetes, Linux, Git, GitHub Actions, CI/CD Pipelines, AKS, ACR, Networking, and Infrastructure as Code (IaC).",
+    "contact": "https://github.com/ShashiSingh72 shashisingh223344@gmail.com , www.linkedin.com/in/shashikant-devops",
+    "funFact": "⚡ I enjoy automating manual tasks and turning infrastructure deployments into one-click CI/CD pipelines.",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://github.com/ShashiSingh72",
+    "blog": "",
+    "resume": "https://www.naukri.com/mnjuser/profile"
+  },
+  "social": {
+    "github": "ShashiSingh72",
+    "dev": "",
+    "linkedin": "www.linkedin.com/in/shashikant-devops",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "aws",
+    "azure",
+    "bash",
+    "css3",
+    "django",
+    "docker",
+    "express",
+    "flask",
+    "gcp",
+    "go",
+    "grafana",
+    "html5",
+    "java",
+    "javascript",
+    "jenkins",
+    "kubernetes",
+    "mssql",
+    "nodejs",
+    "ollama",
+    "python",
+    "react",
+    "spring"
+  ]
+}
